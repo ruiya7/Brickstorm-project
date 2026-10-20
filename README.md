@@ -144,17 +144,9 @@ After using our materials, a beginner should be able to:
 **Integration**
 13. Explain how symbolic AI depends on ideas from software and algorithms (using at least three of the connections above).
 
-
-## 4. Running examples
-
-- **Student records system** (Parts A, B): tables, SQL queries, sorting and searching students, a hierarchy of departments (tree).
-- **Campus map** (Parts B, C): a graph of buildings, used for BFS and then A* route planning.
-- **Toy diagnosis assistant** (Part C): the slides' fever/cough rule, later implemented as a small program. A teaching toy, not medical advice.
-- **Family-relations knowledge base** (Part C): parent/sibling rules for logic, semantic networks and inference; can also be stored in SQL tables, linking back to Part A.
-
 ---
 
-## 5. Learning sequence
+## 4. Learning sequence
 
 # Part A: Software (Chap 3)
 
