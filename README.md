@@ -10,7 +10,7 @@
 | Rashid Rawa | Content Lead | @ruiya7 | 1820262007 |
 | Batbaatar Undrakhjargal | Submission and Logs | @una987 | 1820262173 |
 | Myagmarsuren Batbileg | Repository and Submission Lead | @Monark8599 | 1820262216 |
-| Turmunkh Binderya | Video Lead | @emilysmbb | 1820262220 |
+| Turmunkh Binderiya | Video Lead | @emilysmbb | 1820262220 |
 | Alsheryani Alia | Visual Design Lead | @aliaashe | 1820262010 |
 | Ochirsukh Bilguun | Coordinator | @Ryo-404 | 1820262182 |
 
