@@ -5,14 +5,14 @@
 - **Course:** Foundations of CS & AI, 2026
 - **Selected module:** [Symbolic AI]
 
-| Member | Role / Responsibility | GitHub username | |Student ID|
-|--------|----------------------|-----------------|
-| [Rashid Rawa] | [Content Lead] | [@ruiya7] | |1820262007|
-| [Batbaatar Undrakhjargal] | [Submission and Logss] | [@una987] |1820262173|
-| [Myagmarsuren Batbileg] | [Repository and Submission leads] | [@Monark8599] | |1820262216|
-| [Turmunkh Binderya] | [Video Lead] | [@emilysmbb] | |1820262220|
-| [Alsheryani Alia] | [Visual Lead design] | [@aliaashe] | |1820262010|
-| [Ochirsukh Bilguun] | [Coordinator] | [@Ryo-404] | |1820262182|
+| Member | Role / Responsibility | GitHub username | Student ID |
+|--------|-----------------------|-----------------|------------|
+| Rashid Rawa | Content Lead | @ruiya7 | 1820262007 |
+| Batbaatar Undrakhjargal | Submission and Logs | @una987 | 1820262173 |
+| Myagmarsuren Batbileg | Repository and Submission Lead | @Monark8599 | 1820262216 |
+| Turmunkh Binderya | Video Lead | @emilysmbb | 1820262220 |
+| Alsheryani Alia | Visual Design Lead | @aliaashe | 1820262010 |
+| Ochirsukh Bilguun | Coordinator | @Ryo-404 | 1820262182 |
 
 ## Purpose
 This project teaches **[module topic]** to beginners. We produce three
