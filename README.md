@@ -73,6 +73,102 @@ By the end of this project, learners should be able to:
 - [ ] Test activities and collect feedback
 - [ ] Rehearse the live mini lecture
 
+## Planned Learning Resources and Mini Lecture
+
+These are our initial plans. We will revise them as we research, test, and receive feedback.
+
+### Shared Markdown content
+
+`content/` holds one numbered Markdown file per topic, matching the Topics table above: `01-introduction.md` through `08-hands-on-review.md`. Every file follows the same template:
+
+1. **Learning objectives:** 2-3 "explain" or "do" statements.
+2. **Key terms:** each defined once, in plain language.
+3. **Explanation:** short sections that move from concrete to formal.
+4. **Worked example:** one solved case with labeled steps, so slides and videos can reveal it one step at a time.
+5. **Try it:** a 2-5 minute activity, such as translating a sentence into logic or tracing a rule set.
+6. **Common mistakes:** errors beginners typically make, which also become test-bank distractors.
+7. **References:** course slides, textbook chapters, and open sources, each cited.
+
+Every section has a stable ID (for example, `PL-03 Modus ponens`). The study guide, test bank, slides, and video scripts all cite these IDs, so a correction made in the Markdown can be traced to every affected deliverable.
+
+**Running example:** *IF the patient has a fever AND a cough AND difficulty breathing THEN the patient may have pneumonia.* It appears first in propositional logic, then in knowledge representation, then in the rule-based system, so learners watch one idea grow instead of meeting eight unrelated ones.
+
+**Scope decisions (to confirm with the teacher):**
+- **Detailed:** Topics 1, 2, 4, and 5 (objectives 1-4).
+- **Introductory:** Topic 3 (up to ∀, ∃, and universal modus ponens), Topic 6 (state space, plus one example each of BFS and A*), and Topic 7 (grammar trees and rule-based sentiment).
+- **To resolve:** the "Intended learners" sentence mentions only propositional logic, but the learning objectives are broader. We will pick one framing and align them.
+
+### Study Guide and Test Bank
+
+**Study Guide (`study-guide/`)** follows the topic order. Each chapter has:
+- a half-page concept summary,
+- a glossary,
+- a "Can you explain it?" self-check list,
+- 3-4 practice exercises, with answers in a separate section so learners try first.
+
+The final chapter (Hands-on and Review) has mixed problems and a comparison table of Symbolic AI vs learning-based approaches, supporting the objective on limitations. Learners read the chapter, attempt the exercises, check the answers, then work through the self-check list.
+
+**Test Bank** has about five questions per topic, each tagged by section ID and type (recall, application, or interpretation):
+- multiple-choice questions whose distractors come from the Common mistakes lists (for example, confusing p → q with q → p),
+- truth-table completion,
+- "Which conclusion follows from these rules?" items,
+- short-answer questions (for example, "Name one limitation of Symbolic AI and give an example").
+
+Each answer key explains the answer and names the section to reread. Learners study, take a low-stakes quiz, and use the tags to decide what to revisit.
+
+### PPT Slides
+
+Each slide carries one idea and adds visuals instead of repeating the Markdown text. Planned visuals:
+- **Truth-table slides** that fill in row by row, with AND, OR, NOT, and implication side by side.
+- **Inference diagram:** facts and rules flow into an inference engine, which outputs a conclusion. Reused in Topics 2, 4, and 5.
+- **Semantic network and frame:** nodes with labeled links (Cat → is-a → Mammal) and a frame with slots.
+- **Search-tree slide:** BFS and DFS on the same small tree, with visit order numbered.
+- **Parse-tree slide** for "The cat chased the mouse."
+- **Worked-example slides:** the pneumonia rule traced with animation.
+- **Recap slide** for each topic, matching the study guide summary.
+
+### Video Tutorials
+
+Each video runs about 4-6 minutes. We chose topics where narration and live demonstration help most:
+
+| # | Tutorial | What the demonstration shows |
+|---|----------|------------------------------|
+| 1 | What is Symbolic AI, and why is it explainable? | Narrated tour of the pneumonia rule, plus benefits and limitations |
+| 2 | Truth tables and implication | Building a table live, and why "false → anything" is true |
+| 3 | Inference: modus ponens and modus tollens | Tracing a chain of rules step by step |
+| 4 | Building a tiny rule-based system | Screen recording of a short Python or Prolog program: facts and rules in, conclusion out |
+| 5 | Search as problem solving (optional) | Animated BFS vs DFS |
+
+Processes with sequential steps and software output suit video best, since learners can pause and replay.
+
+### Live Mini Lecture
+
+**Question:** *How can a computer reach a conclusion from IF-THEN rules?* (from Topics 2 and 5)
+
+**Why it matters:** This is the core idea of Symbolic AI: explicit knowledge plus an inference step, with no training data. It underpins our objectives on rules, inference, and building a basic rule-based system.
+
+**Initial plan (about 6-7 minutes):**
+1. **Hook:** show the pneumonia rule and ask, "If a patient has all three symptoms, what should the system say, and why?"
+2. **Explain:** one diagram of facts, rules, and the inference engine, then modus ponens in a single sentence.
+3. **Audience activity:** hand out fact cards and rule cards. Volunteers act as the inference engine, applying rules until no new facts appear, so the class sees forward chaining happen.
+4. **Trap question:** "The system concludes pneumonia is *possible*. Does that mean the patient *has* pneumonia?" This separates valid modus ponens from affirming the consequent and leads into limitations.
+5. **Quick check:** a two-question poll to confirm understanding.
+
+### How the resources support one another
+
+- **Markdown is the source of truth.** The guide, test bank, slides, and video scripts all draw from it, and everything cites section IDs.
+- **Slides** supply the shared visuals, which reappear in the videos and the lecture.
+- **Videos** demonstrate what slides can only sketch, such as building a truth table and running a rule-based system.
+- **Study guide and test bank** let learners practice and self-check, and each item links back to a section, slide, or video.
+- **The mini lecture** is a small version of the whole project: one question, taught with a diagram, an activity, and a check for understanding.
+
+### Content accuracy checks before production
+
+We found these points in the course slides while planning. We will verify them during the Markdown review so errors do not spread into all three resources:
+- **Generalization rules (slides 17-18):** universal generalization from a single instance (from P(a) → Q(a) to ∀x(P(x) → Q(x))) is not valid without additional conditions. We will state this explicitly rather than copy the rule.
+- **Applications (slide 5):** autonomous cars and computer vision are listed as Symbolic AI applications, but both rely heavily on learning-based methods. We will check sources and qualify these.
+- **Naming of inference rules (slides 17 and 20):** rule names differ between slides. We will choose one convention before writing the glossary.
+
 ## AI use
 Significant AI use is recorded in
 
