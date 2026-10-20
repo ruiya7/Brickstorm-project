@@ -75,11 +75,5 @@ By the end of this project, learners should be able to:
 - [ ] Test activities and collect feedback
 - [ ] Rehearse the live mini lecture
 
-## References and acknowledgements
-See [`content/references.md`](content/references.md). Course materials used:
-[e.g. Chap 4 Symbolic AI slides]. Any material adapted from previous
-students' work is acknowledged there.
-
 ## AI use
 Significant AI use is recorded in
-[`project-management/project-log.md`](project-management/project-log.md).
