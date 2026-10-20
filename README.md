@@ -58,16 +58,16 @@ By the end of this project, learners should be able to:
 
 ## Topics
 
-| # | Topic | File |
-|---|-------|------|
-| 1 | Introduction to Symbolic AI | [01-intro-symbolic-ai.md](content/01-intro-symbolic-ai.md) |
-| 2 | Propositional Logic | [02-propositional-logic.md](content/02-propositional-logic.md) |
-| 3 | Predicate Logic | [03-predicate-logic.md](content/03-predicate-logic.md) |
-| 4 | Knowledge Representation | [04-knowledge-representation.md](content/04-knowledge-representation.md) |
-| 5 | Rule-Based and Expert Systems | [05-rule-based-expert-systems.md](content/05-rule-based-expert-systems.md) |
-| 6 | Planning and Problem Solving | [06-planning-problem-solving.md](content/06-planning-problem-solving.md) |
-| 7 | Symbolic NLP | [07-symbolic-nlp.md](content/07-symbolic-nlp.md) |
-| 8 | Hands-on and Review | [08-hands-on-and-review.md](content/08-hands-on-and-review.md) |
+| # | Topic |
+|---|-------|
+| 1 | Introduction to Symbolic AI |
+| 2 | Propositional Logic |
+| 3 | Predicate Logic |
+| 4 | Knowledge Representation |
+| 5 | Rule-Based and Expert Systems | 
+| 6 | Planning and Problem Solving |
+| 7 | Symbolic NLP |
+| 8 | Hands-on and Review |
 
 **Remaining**
 - [ ] Review and verify Markdown content
