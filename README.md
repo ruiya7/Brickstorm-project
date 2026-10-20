@@ -30,11 +30,11 @@ evaluate simple logical statements.]
 
 By the end of this project, learners should be able to:
 
-[1. Explain what Symbolic AI is and how it works.]
-[2. Understand how knowledge can be represented using facts and rules.]
-[3. Explain how AI uses rules and inference to reach conclusions.]
-[4. Solve simple problems using a basic rule-based system.]
-[5. Identify real-world applications, advantages, and limitations of Symbolic AI.]
+1. Explain what Symbolic AI is and how it works.
+2. Understand how knowledge can be represented using facts and rules.
+3. Explain how AI uses rules and inference to reach conclusions.
+4. Solve simple problems using a basic rule-based system.
+5. Identify real-world applications, advantages, and limitations of Symbolic AI.
 
 ## Repository structure
 | Folder / file | What you'll find |
