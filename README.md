@@ -1,16 +1,18 @@
-# [Project Title], e.g. "Understanding Symbolic AI: A Beginner's Learning Kit"
+# Understanding Symbolic AI: A Beginner's Learning Kit
 
 ## Team
-- **Team name:** [name]
+- **Team name:** [https]
 - **Course:** Foundations of CS & AI, 2026
-- **Selected module:** [e.g. Chapter 4: Symbolic AI]
+- **Selected module:** [Symbolic AI]
 
-| Member | Role / Responsibility | GitHub username |
+| Member | Role / Responsibility | GitHub username | |Student ID|
 |--------|----------------------|-----------------|
-| [Name] | [e.g. Markdown content, submission lead] | [@username] |
-| [Name] | [e.g. Slides] | [@username] |
-| [Name] | [e.g. Video tutorials] | [@username] |
-| [Name] | [e.g. Study guide, testing activities] | [@username] |
+| [Rashid Rawa] | [Content Lead] | [@ruiya7] | |1820262007|
+| [Batbaatar Undrakhjargal] | [Submission and Logss] | [@una987] |1820262173|
+| [Myagmarsuren Batbileg] | [Repository and Submission leads] | [@Monark8599] | |1820262216|
+| [Turmunkh Binderya] | [Video Lead] | [@emilysmbb] | |1820262220|
+| [Alsheryani Alia] | [Visual Lead design] | [@aliaashe] | |1820262010|
+| [Ochirsukh Bilguun] | [Coordinator] | [@Ryo-404] | |1820262182|
 
 ## Purpose
 This project teaches **[module topic]** to beginners. We produce three
