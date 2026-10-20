@@ -15,22 +15,26 @@
 | Ochirsukh Bilguun | Coordinator | @Ryo-404 | 1820262182 |
 
 ## Purpose
-This project teaches **[module topic]** to beginners. We produce three
+This project teaches **[Symbolic AI]** to beginners. We produce three
 connected resources built from one shared Markdown source:
 1. **Study Guide**: independent learning with explanations, examples, and exercises
 2. **PPT Slides**: visual explanations of the key ideas
 3. **Video Tutorials**: short, focused walkthroughs and demonstrations
 
 ## Intended learners
-[Who they are, what they already know, and what they will be able to do
-afterwards. Example: "First-year students with no prior AI background.
+[First-year students with no prior AI background.
 After using these materials, learners can explain propositional logic and
-evaluate simple logical statements."]
+evaluate simple logical statements.]
 
 ## Learning objectives
-- [Objective 1]
-- [Objective 2]
-- [Objective 3]
+
+By the end of this project, learners should be able to:
+
+[1. Explain what Symbolic AI is and how it works.
+2. Understand how knowledge can be represented using facts and rules.
+3. Explain how AI uses rules and inference to reach conclusions.
+4. Solve simple problems using a basic rule-based system.
+5. Identify real-world applications, advantages, and limitations of Symbolic AI.]
 
 ## Repository structure
 | Folder / file | What you'll find |
