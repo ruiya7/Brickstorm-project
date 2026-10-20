@@ -134,6 +134,7 @@ After using our materials, a beginner should be able to:
 6. Choose among arrays, linked lists, stacks, queues, trees and graphs for a simple task.
 
 **Symbolic AI**
+
 7. Explain what symbolic AI (GOFAI) is, with its strengths and limitations.
 8. Translate simple statements into propositional and predicate logic, and apply basic inference rules.
 9. Compare knowledge representation methods (logic, semantic networks, frames/scripts, rules, ontologies).
