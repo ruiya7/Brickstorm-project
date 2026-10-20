@@ -49,14 +49,14 @@ By the end of this project, learners should be able to:
 
 **Where to start:** read `content/01-[...].md`, then see the study guide.
 
-## Topics
+## Scope Boundaries
 
 | # | Topic |
 |---|-------|
 | 1 | Software Overview and Operating Systems |
 | 2 | Programming Languages |
 | 3 | Software Engineering |
-| 4 | Databases |
+| 4 | Databases and SQL |
 | 5 | Algorithms |
 | 6 | Data Structures |
 | 7 | Introduction to Symbolic AI |
