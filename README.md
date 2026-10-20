@@ -48,21 +48,26 @@ By the end of this project, learners should be able to:
 
 **Where to start:** read `content/01-[...].md`, then see the study guide.
 
-## Project plan and tasks
-- Project plan: [`project-management/project-plan.md`](project-management/project-plan.md)
-- Task list: [`project-management/task-list.md`](project-management/task-list.md)
-  (or: [link to GitHub Projects board])
-
 ## Current progress
 **Last updated:** [date]
 
 **Done**
 - [x] Repository created and README written
 - [x] Project plan drafted
-- [x] [Topic 1] Markdown outline
+- [x] [Symbolic AI] Markdown outline
 
-**In progress**
-- [ ] [e.g. Markdown draft of topics 2–3 (@member)]
+## Topics
+
+| # | Topic | File |
+|---|-------|------|
+| 1 | Introduction to Symbolic AI | [01-intro-symbolic-ai.md](content/01-intro-symbolic-ai.md) |
+| 2 | Propositional Logic | [02-propositional-logic.md](content/02-propositional-logic.md) |
+| 3 | Predicate Logic | [03-predicate-logic.md](content/03-predicate-logic.md) |
+| 4 | Knowledge Representation | [04-knowledge-representation.md](content/04-knowledge-representation.md) |
+| 5 | Rule-Based and Expert Systems | [05-rule-based-expert-systems.md](content/05-rule-based-expert-systems.md) |
+| 6 | Planning and Problem Solving | [06-planning-problem-solving.md](content/06-planning-problem-solving.md) |
+| 7 | Symbolic NLP | [07-symbolic-nlp.md](content/07-symbolic-nlp.md) |
+| 8 | Hands-on and Review | [08-hands-on-and-review.md](content/08-hands-on-and-review.md) |
 
 **Remaining**
 - [ ] Review and verify Markdown content
