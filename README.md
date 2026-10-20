@@ -56,7 +56,7 @@ By the end of this project, learners should be able to:
 | 1 | Software Overview and Operating Systems |
 | 2 | Programming Languages |
 | 3 | Software Engineering |
-| 4 | Databases and SQL |
+| 4 | Databases |
 | 5 | Algorithms |
 | 6 | Data Structures |
 | 7 | Introduction to Symbolic AI |
