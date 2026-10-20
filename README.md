@@ -22,9 +22,9 @@ connected resources built from one shared Markdown source:
 3. **Video Tutorials**: short, focused walkthroughs and demonstrations
 
 ## Intended learners
-[First-year students with no prior AI background.
+First-year students with no prior AI background.
 After using these materials, learners can explain propositional logic and
-evaluate simple logical statements.]
+evaluate simple logical statements.
 
 ## Learning objectives
 
