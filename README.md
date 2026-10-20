@@ -21,12 +21,12 @@ connected resources built from one shared Markdown source:
 2. **PPT Slides**: visual explanations of the key ideas
 3. **Video Tutorials**: short, focused walkthroughs and demonstrations
 
-## Intended learners
+## Target learners
 First-year students with no prior AI background.
 After using these materials, learners can explain propositional logic and
 evaluate simple logical statements.
 
-## Learning objectives
+## Learning Goals
 
 By the end of this project, learners should be able to:
 
