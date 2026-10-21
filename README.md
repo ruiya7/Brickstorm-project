@@ -73,7 +73,7 @@ By the end of this project, learners should be able to:
 - [ ] Test activities and collect feedback
 - [ ] Rehearse the live mini lecture
 
-## C. Planned Learning Resources and Mini Lecture
+## Planned Learning Resources and Mini Lecture
 
 These are our initial plans. We will revise them as we research, test, and receive feedback.
 
@@ -83,10 +83,10 @@ These are our initial plans. We will revise them as we research, test, and recei
 
 | Part | Files |
 | --- | --- |
-| A. Software | `01-software-and-operating-systems.md`, `02-programming-languages.md`, `03-software-engineering.md`, `04-databases-and-sql.md` |
-| B. Algorithms and data structures | `05-algorithms.md`, `06-data-structures.md` |
-| C. Symbolic AI | `07-intro-to-symbolic-ai.md`, `08-logic-and-reasoning.md`, `09-knowledge-representation.md`, `10-rule-based-and-expert-systems.md`, `11-planning-and-search.md`, `12-symbolic-nlp.md` |
-| D. Review | `13-hands-on-and-review.md` |
+| A. Software | `files` |
+| B. Algorithms and data structures | `files` |
+| C. Symbolic AI | `files` |
+| D. Review | `files` |
 
 **One template for every file:**
 
