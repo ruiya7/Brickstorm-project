@@ -15,7 +15,7 @@
 
 | ID | Task | Expected result | Responsible | Internal deadline | Status | Depends on |
 | --- | --- | --- | --- | --- | --- | --- |
-| S1-01 | Hold a team meeting: confirm module (Software and Symbolic AI), team name, and which topics are detailed, medium or brief | Meeting summary saved in `project-management/` | Lead: Ochirsukh; all | Oct 22 | not started | none |
+| S1-01 | Hold a team meeting: confirm module (Software and Symbolic AI), team name, and which topics are detailed, medium or brief | Meeting summary saved in `project-management/` | Lead: Ochirsukh; all | Oct 22 | in progress | none |
 | S1-02 | Check the GitHub repo: all six members can edit, and the teacher can open it | Repo link works; member list checked | Myagmarsuren | Oct 22 | in progress | none |
 | S1-03 | Create the folders: `content/`, `assets/`, `study-guide/`, `slides/`, `video/`, `project-management/` | Folders visible in the repo | Myagmarsuren | Oct 22 | in progress | S1-02 |
 | S1-04 | Each member writes 2-3 lines on their strengths and the skills they want to develop | Text ready for plan section A | Each member; lead: Ochirsukh | Oct 22 | not started | none |
