@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # Brickstorm — Software and Symbolic AI
 
 Team project for **Foundations of CS & AI 2026**.
