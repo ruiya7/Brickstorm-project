@@ -1,31 +1,70 @@
-# Project Plan — Brickstorm
+# Brickstorm — Stage 1 Project Log
 
-## Goal
-Teach Software and Symbolic AI to beginners with a Study Guide, PPT Slides and Video Tutorials built from one shared Markdown source.
 
-## Stages
-| Stage | Deliverable | Status |
-|---|---|---|
-| 1 | Study Guide (Markdown content, GitHub repository, plan) | In progress |
-| 2 | PPT Slides | Not started |
-| 3 | Video Tutorials | Not started |
+**Brickstorm: Software and Symbolic AI**
+Stage 1 Project Log, 20–24 October 2026
+Foundations of CS & AI 2026
 
-## Roles
-| Member | Role |
-|---|---|
-| Rawa Rashid | Content lead |
-| Batbaatar Undrakhjargal | Submission and logs |
-| Ochirsukh Bilguun | Coordinator |
-| Myagmarsuren Batbileg | Repository and submission lead |
-| Turmunkh Binderya | Video lead |
-| Alsheryani Alia | Visual design lead |
+## Team
+- Rawa Rashid (1820262007) — Content lead
+- Batbaatar Undrakhjargal (1820262173) — Submission and logs
+- Ochirsukh Bilguun (1820262182) — Coordinator
+- Myagmarsuren Batbileg (1820262216) — Repository and submission lead
+- Turmunkh Binderya (1820262220) — Video lead
+- Alsheryani Alia (1820262010) — Visual design lead
 
-## Communication
-- Chat: WeChat
-- Meetings: in person, student dormitory
+## Project purpose
+- Teach Software and Symbolic AI to beginners, including students from non-technical majors
+- Three resources from one shared Markdown source: Study Guide, PPT Slides, Video Tutorials
+- Module covers Chapter 3 (Software & Algorithms) and Chapter 4 (Symbolic AI)
 
-## Risks
-| Risk | Response |
-|---|---|
-| Choosing a team name took a long time | Resolved: Brickstorm |
-| _Add further risks_ | |
+## 20 Oct: Kickoff meeting
+- 5:00–9:00 PM, dormitory B1, all six members present
+- Outlined the project, discussed the chapters and target learners
+- Ochirsukh arranged and assigned tasks by role
+- Alia: graphic design. Rawa and Batbileg: GitHub. Binderya and Una: plan and module structure
+- Learned: different majors and backgrounds; the team found ways to work together and built trust
+
+## 22 Oct: Finalizing the plan
+- Team worked on making the plan accurate
+- Alia worked on the rough plan
+- Team name chosen: Brickstorm (finding a name took about an hour)
+- Communication: WeChat, in-person meetings in the dormitory
+- Next: submit the plan on 23 Oct, then build the GitHub version
+
+## 23 Oct: Teacher instructions
+- Teacher said (verbally): work in VS Code, GitHub is not important, Symbolic AI and Software must be in two separate folders
+- Team restructured the repository into two folders
+- Team decided not to use VS Code after a workspace file was reported as blocking the GitHub upload; file removed
+- [Add whether the teacher was told]
+
+## Repository structure (Evidence E3, E4)
+- `software-and-algorithms/` — topics 01–06
+- `symbolic-ai/` — topics 07–13
+- `assets/`, `planning/`, `logs/`, `reviews/`
+- README with team, purpose, folder structure and topic index
+- 32 files; topic files are templates, not yet developed
+
+## AI use
+- AI-1: turning Chapter 3 slides into study material (Claude) [date, member]
+- AI-2: paraphrasing member strengths for the plan (Claude) [date, member]
+- AI-3 (23 Oct): building the repository structure and README (Claude). Checked by searching the files for leftover VS Code mentions and listing the ZIP contents; member tested the upload and reported a problem
+- [Add what the team verified and changed for each]
+
+## What was learned
+- Different backgrounds worked better once tasks followed each member's role
+- A late verbal requirement can change the structure; regrouping into two folders was quick
+- A file added to the repository can cause problems; the upload failure cause is not confirmed
+- [Add the team's own lessons]
+
+## What remains
+- Develop one topic fully: worked example, activity, answer, references (Rawa)
+- Peer review record
+- Personal logs for all members
+- ZIP package: report, Markdown snapshot, PDF
+- Deadline: 24 Oct 2026, 23:59 Beijing time
+
+## Contributions (Stage 1)
+- Scores are blank until the team agrees them
+- Each member's main contribution is listed in the project log
+- Evidence: Entries 1–3, E1–E4
