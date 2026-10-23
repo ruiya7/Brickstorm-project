@@ -20,7 +20,11 @@ Team project for **Foundations of CS & AI 2026**.
 
 This project teaches **Software and Symbolic AI to beginners** through three connected resources built from one shared Markdown source:
 
+<<<<<<< HEAD
 1. **Study Guide**,
+=======
+1. **Study Guide**
+>>>>>>> 0e8cb1e (great commit)
 2. **PPT Slides**
 3. **Video Tutorials**
 
@@ -40,7 +44,10 @@ After working through the material, a learner should be able to:
 ```text
 brickstorm/
 ├── README.md                      <- you are here
+<<<<<<< HEAD
 ├── brickstorm.code-workspace      <- open this in VS Code
+=======
+>>>>>>> 0e8cb1e (great commit)
 ├── software-and-algorithms/       <- Chapter 3 topics (01–06)
 ├── symbolic-ai/                   <- Chapter 4 topics (07–13)
 ├── assets/
@@ -92,6 +99,16 @@ See [planning/task-list.md](planning/task-list.md) for the detailed breakdown.
 
 ## Working Agreement
 
+<<<<<<< HEAD
 - Content is written in Markdown and edited in VS Code.
 - One topic per file; use the numbered file names above.
 - Commit with short, clear messages and pull before you push.
+=======
+- Content is written in Markdown.
+- One topic per file; use the numbered file names above.
+- Commit with short, clear messages and pull before you push.
+
+## Access
+
+All six members are added as collaborators (Settings → Collaborators). The teacher can be added the same way, or given the repository link.
+>>>>>>> 0e8cb1e (great commit)
