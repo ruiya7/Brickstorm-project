@@ -1,7 +1,7 @@
 # Understanding Software and Symbolic AI: A Beginner's Learning Kit
 
 ## Team
-- **Team name:** [https]
+- **Team name:** BrickStorm
 - **Course:** Foundations of CS & AI, 2026
 - **Selected module:** [Symbolic AI and Symbolic AI]
 
