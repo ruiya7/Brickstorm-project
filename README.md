@@ -54,8 +54,6 @@ brickstorm/
 └── reviews/                       <- peer review records
 ```
 
-Content files link to assets with relative paths, e.g. `../assets/images/example.png`, so the repository works as a ZIP copy outside GitHub.
-
 ## Where to Find the Content
 
 | # | Topic | File |
