@@ -89,20 +89,3 @@ Content files link to assets with relative paths, e.g. `../assets/images/example
 
 See [planning/task-list.md](planning/task-list.md) for the detailed breakdown.
 
-## Working Agreement
-
-- Content is written in Markdown and edited in VS Code.
-- One topic per file; use the numbered file names above.
-- Commit with short, clear messages and pull before you push.
-- Content is written in Markdown.
-- One topic per file; use the numbered file names above.
-- Commit with short, clear messages and pull before you push.
-
-## Access
-
-All six members are added as collaborators (Settings → Collaborators). The teacher can be added the same way, or given the repository link.
-
-## Access
-
-All six members are added as collaborators (Settings → Collaborators). The teacher can be added the same way, or given the repository link.
-
