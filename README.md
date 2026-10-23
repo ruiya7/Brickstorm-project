@@ -20,9 +20,9 @@ Team project for **Foundations of CS & AI 2026**.
 
 This project teaches **Software and Symbolic AI to beginners** through three connected resources built from one shared Markdown source:
 
-1. a **Study Guide**,
-2. **PPT Slides**, and
-3. **Video Tutorials**.
+1. **Study Guide**,
+2. **PPT Slides**
+3. **Video Tutorials**
 
 Intended learners are first-time learners of computer science and AI, including students from non-technical majors.
 
