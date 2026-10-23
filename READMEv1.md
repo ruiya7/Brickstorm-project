@@ -13,7 +13,7 @@ Selected module: **Software and Symbolic AI**, covering Chapter 3 (Software & Al
 | Batbaatar Undrakhjargal | Submission and logs | [@una987](https://github.com/una987) |
 | Ochirsukh Bilguun | Coordinator | [@Ryo-404](https://github.com/Ryo-404) |
 | Myagmarsuren Batbileg | Repository and submission lead | [@Monark8599](https://github.com/Monark8599) |
-| Turmunkh Binderya | Video lead | [@emilysmbb](https://github.com/emilysmbb) |
+| Turmunkh Binderiya | Video lead | [@emilysmbb](https://github.com/emilysmbb) |
 | Alsheryani Alia | Visual design lead | [@aliaashe](https://github.com/aliaashe) |
 
 Roles describe responsibilities, not exclusive areas. Every member studies the whole module, contributes content, and reviews teammates' work.
